@@ -1,0 +1,10 @@
+name: gKoth
+author: Undead_Guppy
+description: A KoTH plugin by Undead_Guppy, for use on the InvadedLands servers.
+main: me.undeadguppy.gKoth.Main
+version: 2.0
+depend: [Vault]
+commands:
+  koth:
+  
+    
